@@ -9,6 +9,9 @@ New:
 - Modernize pagination markup and switches deprecated ``listingBar`` CSS class to ``pagination``.
   [davilima6]
 
+- Action control panel specific rendering
+  [ebrehault]
+
 Fixes:
 
 - Inline ``style`` tags in head are no more skipped
